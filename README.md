@@ -1,0 +1,1 @@
+This repository aims to provide simple and beginner-friendly python implementation of optimization algorithms. These algorithms are mainly introduced in the book "Algorithms for optimization" but may come from other sources as well.
